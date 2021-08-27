@@ -1,0 +1,4 @@
+*testing is is a process that we validate a function that reach the objective.
+*2 types of testing: 1. the programmer check if there is no error at putting data randomly. 2. automatically: the programmer put tests into the function that we want to test and the program tells you if there is something to fix or wrong.
+*testing is important because we program the tests and we dont forget any step or something else.
+*The documentation is better. When we test our function, we know how works and the results that it has. In the future if we modify our function, we can checkthe documentation and work from there.
