@@ -8,3 +8,6 @@
 *go test -run name or regular expression will run the test with those specifics parameters
 
 *the important of regular expressions
+
+
+*go test -v will show the Log of the tests
