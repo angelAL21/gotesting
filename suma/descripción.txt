@@ -1,0 +1,5 @@
+sumar dos valores.
+
+En el archivo suma codeamos una función Add que llevan dos valores int, devolverá un int y éste el resultado.
+
+en la función TestAdd, tenemos dos valores: el que queremos y el que obtenemos. En la funcion que obtenemos le pasamos resultados iguales o diferentes al que queremos, si es diferente fallará.
