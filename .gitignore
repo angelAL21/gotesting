@@ -2,3 +2,4 @@
 *go.txt
 *notes.txt
 *.gitignore
+*go.sum 
