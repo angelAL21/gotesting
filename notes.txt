@@ -13,3 +13,5 @@
 *go test -v will show the Log of the tests
 
 *Errof is used when the test does not work with the condition that we don't want.
+
+*go test -bench=- make benchmark on tests.
