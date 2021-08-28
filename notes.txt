@@ -15,3 +15,9 @@
 *Errof is used when the test does not work with the condition that we don't want.
 
 *go test -bench=- make benchmark on tests.
+
+*integration test, when we test a funcionality from an external service, like DB, mail, comunication services (telegram, etc).
+
+*unit test: when we test a function of our package.
+
+*mock: simulation of some integration test, like a DB. If we test that mock, we're making a unit test.
